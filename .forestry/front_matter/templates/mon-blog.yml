@@ -26,5 +26,4 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/post/la-tour-eiffel.md
 - content/post/tour-eiffel.md
