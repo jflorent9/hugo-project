@@ -58,6 +58,11 @@
   </url>
   
   <url>
+    <loc>https://example.org/post/la-tour-eiffel/</loc>
+    <lastmod>2019-03-19T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.org/post/tour-eiffel/</loc>
     <lastmod>2019-03-19T23:00:00+00:00</lastmod>
   </url>
