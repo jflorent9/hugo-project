@@ -111,15 +111,6 @@
     </item>
     
     <item>
-      <title>Tour Eiffel</title>
-      <link>https://example.org/post/tour-eiffel/</link>
-      <pubDate>Tue, 19 Mar 2019 23:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/post/tour-eiffel/</guid>
-      <description>La tour Eiffel est une tour de fer puddlé de 324 mètres de hauteur située à Paris, à l’extrémité nord-ouest du parc du Champ-de-Mars en bordure de la Seine dans le 7ᵉ arrondissement.</description>
-    </item>
-    
-    <item>
       <title>About me</title>
       <link>https://example.org/about/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
